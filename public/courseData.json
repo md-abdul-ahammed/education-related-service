@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "course_name": "Build Web Apps with Vue JS 3 & Firebase",
+        "course_details": "Learn Vue JS 3 & Firebase by creating & deploying dynamic web apps (including Authentication).",
+        "rating": 4.1,
+        "price": 181,
+        "rating_count": 107,
+        "seller_name": "Thebault",
+        "img": "https://tutsnode.com/wp-content/uploads/2020/12/Build-Web-Apps-with-Vue-JS-3-Firebase.jpg"
+    },
+    {
+        "id": 2,
+        "course_name": "Svelte.js - The Complete Guide (incl. Sapper.js)",
+        "course_details": "Build high-performance web applications with SvelteJS - a lightweight JavaScript compiler",
+        "rating": 3.0,
+        "price": 110,
+        "rating_count": 95,
+        "seller_name": "Prudence",
+        "img": "https://coursemarks.com/wp-content/uploads/2020/11/2606044_64c5_2.jpg"
+    },
+    {
+        "id": 3,
+        "course_name": "Webpack 5: The Complete Guide For Beginners",
+        "course_details": "Learn Webpack 5 from the very basics to advanced! Use Webpack with JS, CSS, npm, Babel, Node",
+        "rating": 3.8,
+        "price": 141,
+        "rating_count": 355,
+        "seller_name": "Cicely",
+        "img": "https://tutsnode.com/wp-content/uploads/2020/11/Webpack-5-The-Complete-Guide-For-Beginners.jpg"
+    },
+    {
+        "id": 4,
+        "course_name": "Creative Advanced CSS Animations - Create 100 Projects!",
+        "course_details": "Master Advanced CSS Animations, Transitions and Transforms And Practice with 100 Creative Projects",
+        "rating": 3.0,
+        "price": 177,
+        "rating_count": 360,
+        "seller_name": "Rockie",
+        "img": "https://coursemarks.com/wp-content/uploads/2021/02/2384514_b39c.jpg"
+    },
+    {
+        "id": 5,
+        "course_name": "Next.js Dev to Deployment",
+        "course_details": "Learn Next.js by building a music event website",
+        "rating": 3.8,
+        "price": 92,
+        "rating_count": 70,
+        "seller_name": "Stacy",
+        "img": "https://venturebeat.com/wp-content/uploads/2020/12/Next-e1608127234481.png?w=1200&strip=all"
+    },
+    {
+        "id": 6,
+        "course_name": "Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more",
+        "course_details": "Become a Designer in 2021! Master Mobile and Web Design, User Interface + User Experience (UI/UX Design), HTML, and CSS",
+        "rating": 3.7,
+        "price": 141,
+        "rating_count": 480,
+        "seller_name": "Mavra",
+        "img": "https://www.filepicker.io/api/file/dzzn6k5dRCeDvdg3AHUo"
+    },
+    {
+        "id": 7,
+        "course_name": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "course_details": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
+        "rating": 3.9,
+        "price": 165,
+        "rating_count": 170,
+        "seller_name": "Chan",
+        "img": "https://static.skillshare.com/uploads/video/thumbnails/087f9cdfd74e8997547b5c31977fa561/original"
+    },
+    {
+        "id": 8,
+        "course_name": "React For The Rest Of Us",
+        "course_details": "Learn React JS to create Single Page Applications (SPA) using modern practices like Context, Reducer, Suspense and more",
+        "rating": 4.6,
+        "price": 85,
+        "rating_count": 248,
+        "seller_name": "Sergei",
+        "img": "https://courses.javacodegeeks.com/wp-content/uploads/2020/04/1439744_ba20_5-600x336.jpg"
+    },
+    {
+        "id": 9,
+        "course_name": "The Modern JavaScript Bootcamp",
+        "course_details": "Learn JavaScript by building real-world apps. Includes 3 real-world projects, 80 programming challenges, and ES6/ES7!",
+        "rating": 3.8,
+        "price": 137,
+        "rating_count": 232,
+        "seller_name": "Jeramey",
+        "img": "https://media.freebiesglobal.com/thumbs_dir/complete-modern-javascript-bootcamp-from-the-beginning-otppevmwm7psa5vr6eok4i5ax8dh75jgk56ff51r0a.jpg"
+    },
+    {
+        "id": 10,
+        "course_name": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "course_details": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!",
+        "rating": 3.1,
+        "price": 120,
+        "rating_count": 455,
+        "seller_name": "Darryl",
+        "img": "https://freecoursewebsite.com/wp-content/uploads/2020/07/The-Modern-React-Bootcamp-Hooks-Context-NextJS-Router-1200x758.jpg"
+    },
+    {
+        "id": 11,
+        "course_name": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "course_details": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+        "rating": 4.0,
+        "price": 69,
+        "rating_count": 196,
+        "seller_name": "Obidiah",
+        "img": "https://couponos.ooo/wp-content/uploads/2020/04/Complete-Web-Design-from-Figma-to-Webflow-to-Freelancing.jpg"
+    },
+    {
+        "id": 12,
+        "course_name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2021",
+        "course_details": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+        "rating": 3.9,
+        "price": 174,
+        "rating_count": 103,
+        "seller_name": "Cos",
+        "img": "https://coursemarks.com/wp-content/uploads/2020/11/1672410_9ff1_5.jpg"
+    },
+    {
+        "id": 13,
+        "course_name": "AWS CloudFormation Master Class v2 [2021]",
+        "course_details": "Write Complete AWS CloudFormation Templates using YAML. Learn all the Recent Cloud Formation Features",
+        "rating": 4.5,
+        "price": 133,
+        "rating_count": 239,
+        "seller_name": "Neile",
+        "img": "https://cdn-screenshots.comidoc.net/1362052_4.png"
+    },
+    {
+        "id": 14,
+        "course_name": "The Coding Interview Bootcamp: Algorithms + Data Structures",
+        "course_details": "Ace your next Javascript coding interview by mastering data structures and algorithms.",
+        "rating": 3.7,
+        "price": 165,
+        "rating_count": 210,
+        "seller_name": "Immanuel",
+        "img": "https://www.real.discount/wp-content/uploads/2018/04/1409142_1879_8-1200x675.jpg"
+    },
+    {
+        "id": 15,
+        "course_name": "Async/Await and Actors - Concurrency in Swift",
+        "course_details": "Learn async/await, actors, async-let, task groups, unstructured concurrency, detached tasks and more!",
+        "rating": 1.0,
+        "price": 157,
+        "rating_count": 449,
+        "seller_name": "Lee",
+        "img": "https://i.ytimg.com/vi/esmf26aGz4s/maxresdefault.jpg"
+    }
+]
