@@ -26,10 +26,13 @@ const Footer = () => {
                         <NavLink className="nav-link text-warning" to="/contact-us"><i className="fas fa-arrow-right"></i> Contact Us</NavLink>
                     </div>
                     <div className="col-md-4">
-                        <h3>RECENT POST</h3>
+                        <h3>NEWSLETTER</h3>
+                        <p>Lorem ipsum dolor sit amet, consectet adipisicing elit.</p>
+                        <input type="text" className="form-control me-4" placeholder="Enter Email Here" />
                     </div>
                 </div>
             </div>
+            {/* copyright area start from here */}
             <div className='text-white text-center copyright p-2'>
                 <p className='m-0'><small>Copyright <i className="far fa-copyright"></i> 2021  | Designed With <i className="fas fa-heart text-danger"></i> by <span className='text-warning fw-bold'>HomeEducation</span></small></p>
             </div>

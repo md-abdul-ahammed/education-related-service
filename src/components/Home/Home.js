@@ -12,7 +12,7 @@ const Home = () => {
     }, [])
     return (
         <>
-            {/* slider component */}
+            {/* slider component start from here */}
             <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -54,7 +54,9 @@ const Home = () => {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
+            {/* slider component end here */}
 
+            {/* new section about us from here */}
             <div className="card mb-3 container mt-5 p-5 max-width">
                 <div className="row g-0 align-items-center">
                     <div className="col-md-4">
@@ -69,6 +71,8 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            {/* new section about us end here */}
+
             {/* services area */}
             <div className='container mx-auto'>
                 <h3 className='mt-5 mb-5 w-50 text-center mx-auto'>We Do What We Love To Do. Find the Best Course To Fit Your Needs.</h3>
